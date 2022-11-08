@@ -1,0 +1,37 @@
+npm add amazon-cognito-identity-js
+npm link amazon-cognito-identity-js
+
+npm i -D "@bam.tech/react-native-make"
+
+react-native set-icon --path "C:\D\innoapsion\cmpc.png" --background "#FFFFFF" --platform android
+
+
+
+npm i react-native-splash-screen --save
+react-native link react-native-splash-screen
+react-native set-splash --platform android --path "C:\D\innoapsion\cmpc.png" --resize <[contain]|cover|center> --background ">background-color>"
+react-native set-splash --platform android --path "C:\D\innoapsion\cmpc-small.png" --resize "center" --background "#FFFFFF"
+
+Generar clave:
+
+PS C:\React Native Projects\new-sso-fd> keytool -genkeypair -v -keystore MonitoreoSSO-Nuevo.keystore -alias MonitoreoSSO-Nuevo -keyalg RSA -keysize 2048 -validity 10000
+Introduzca la contraseña del almacén de claves: freire2020
+Volver a escribir la contraseña nueva: freire2020
+¿Cuáles son su nombre y su apellido?
+  [Unknown]:  Innoapsion
+¿Cuál es el nombre de su unidad de organización?
+  [Unknown]:  Desarrollo
+¿Cuál es el nombre de su organización?
+  [Unknown]:  Innoapsion
+¿Cuál es el nombre de su ciudad o localidad?
+  [Unknown]:  Nacimiento
+¿Cuál es el nombre de su estado o provincia?
+  [Unknown]:  Bio Bio
+¿Cuál es el código de país de dos letras de la unidad?
+  [Unknown]:  CL
+
+Generar apk o aab:
+
+TUPROYECTO\android\app\build\outputs\apk\release\app-release.apk  -- apk generada con ./gradlew assembleRelease
+TUPROYECTO\android\app\build\outputs\bundle\release -- Archivo .aab generado con ./gradlew bundleRelease
+

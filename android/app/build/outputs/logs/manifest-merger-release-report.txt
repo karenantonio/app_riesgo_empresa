@@ -1,0 +1,440 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\xampp\htdocs\RN-MonitoreoSSO\android\app\src\main\AndroidManifest.xml:1:1-36:12
+INJECTED from C:\xampp\htdocs\RN-MonitoreoSSO\android\app\src\main\AndroidManifest.xml:1:1-36:12
+INJECTED from C:\xampp\htdocs\RN-MonitoreoSSO\android\app\src\main\AndroidManifest.xml:1:1-36:12
+INJECTED from C:\xampp\htdocs\RN-MonitoreoSSO\android\app\src\main\AndroidManifest.xml:1:1-36:12
+MERGED from [:realm] C:\xampp\htdocs\RN-MonitoreoSSO\node_modules\realm\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-camera-kit] C:\xampp\htdocs\RN-MonitoreoSSO\node_modules\react-native-camera-kit\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-15:12
+MERGED from [:@react-native-community_geolocation] C:\xampp\htdocs\RN-MonitoreoSSO\node_modules\@react-native-community\geolocation\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-svg] C:\xampp\htdocs\RN-MonitoreoSSO\node_modules\react-native-svg\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-vector-icons] C:\xampp\htdocs\RN-MonitoreoSSO\node_modules\react-native-vector-icons\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-11:12
+MERGED from [:amazon-cognito-identity-js] C:\xampp\htdocs\RN-MonitoreoSSO\node_modules\amazon-cognito-identity-js\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-community_geolocation] C:\xampp\htdocs\RN-MonitoreoSSO\node_modules\@react-native-community\geolocation\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-community_netinfo] C:\xampp\htdocs\RN-MonitoreoSSO\node_modules\@react-native-community\netinfo\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-background-job] C:\xampp\htdocs\RN-MonitoreoSSO\node_modules\react-native-background-job\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-27:12
+MERGED from [:react-native-device-info] C:\xampp\htdocs\RN-MonitoreoSSO\node_modules\react-native-device-info\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-22:12
+MERGED from [:react-native-image-picker] C:\xampp\htdocs\RN-MonitoreoSSO\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-23:12
+MERGED from [:react-native-prompt-android] C:\xampp\htdocs\RN-MonitoreoSSO\node_modules\react-native-prompt-android\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-signature-capture] C:\xampp\htdocs\RN-MonitoreoSSO\node_modules\react-native-signature-capture\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-version-number] C:\xampp\htdocs\RN-MonitoreoSSO\node_modules\react-native-version-number\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.62.2] C:\Users\kanto\.gradle\caches\transforms-2\files-2.1\89ae52c59a80efcf5b5cd7642f547d77\AndroidManifest.xml:2:1-13:12
+MERGED from [org.webkit:android-jsc:r245459] C:\Users\kanto\.gradle\caches\transforms-2\files-2.1\bd0a54d4fe6b4beea7f612be37d51b7e\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\kanto\.gradle\caches\transforms-2\files-2.1\dfbff347e8c35aa14814b625181f71f0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\kanto\.gradle\caches\transforms-2\files-2.1\8ad8a07a84a348e38c857e7eddd59b1d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:2.0.0] C:\Users\kanto\.gradle\caches\transforms-2\files-2.1\977d151edcc98393e22d821352a432dc\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] C:\Users\kanto\.gradle\caches\transforms-2\files-2.1\8ac23e853ccbfadb48d1df6c56f4804e\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.0.0] C:\Users\kanto\.gradle\caches\transforms-2\files-2.1\8d2397a77ca6e404d3f4c2233d95d914\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] C:\Users\kanto\.gradle\caches\transforms-2\files-2.1\0b36557d16dfe9fad518483d397aeafa\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] C:\Users\kanto\.gradle\caches\transforms-2\files-2.1\7de8cce0768186981809f4687a2c3697\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] C:\Users\kanto\.gradle\caches\transforms-2\files-2.1\5a008ec5db861f85d165d79d3806f722\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] C:\Users\kanto\.gradle\caches\transforms-2\files-2.1\fe51a3fa9d3181a8c83909830ccace79\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.8.0] C:\Users\kanto\.gradle\caches\transforms-2\files-2.1\71ad5bda0fb80cf1d1c7bf94ed0efa16\AndroidManifest.xml:2:1-13:12
+MERGED from [com.firebase:firebase-jobdispatcher:0.8.5] C:\Users\kanto\.gradle\caches\transforms-2\files-2.1\4992a436af783b2989a7a60e0e0334bb\AndroidManifest.xml:17:1-42:12
+MERGED from [com.google.android.gms:play-services-gcm:16.1.0] C:\Users\kanto\.gradle\caches\transforms-2\files-2.1\fbc51d0748ae1b0a4a4e0042b8a6141c\AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-iid:16.0.1] C:\Users\kanto\.gradle\caches\transforms-2\files-2.1\a9f2e2f4be0ba6668466a696957f681c\AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\kanto\.gradle\caches\transforms-2\files-2.1\433d5d65af70f23bc6bcf84e1be0c80c\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] C:\Users\kanto\.gradle\caches\transforms-2\files-2.1\0c613dee2c257fa8ab53c66f7dafcbf2\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\kanto\.gradle\caches\transforms-2\files-2.1\0120d3e1c128e8584be35fba9c78a1e8\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\kanto\.gradle\caches\transforms-2\files-2.1\f4b1d13c1306d941d1429908e3f50a56\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\kanto\.gradle\caches\transforms-2\files-2.1\000b93a79f5e3667d1a44b263376082b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\kanto\.gradle\caches\transforms-2\files-2.1\3a6c2bfdb893ef302291fe75b3559d2b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\kanto\.gradle\caches\transforms-2\files-2.1\70e497f327e557544d310df206e2f696\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\kanto\.gradle\caches\transforms-2\files-2.1\e22a434e5814053032ea0f1a0ac5640b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\kanto\.gradle\caches\transforms-2\files-2.1\64b387e40622209b3e2b3b0b889975cb\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\kanto\.gradle\caches\transforms-2\files-2.1\6ea99487856bcf7a534c3f8c4c9be3c4\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\kanto\.gradle\caches\transforms-2\files-2.1\5062bd9da424ab81113ab8f5841011c4\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\kanto\.gradle\caches\transforms-2\files-2.1\6c365d731bac9e6e4483dc2a842b50f2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\kanto\.gradle\caches\transforms-2\files-2.1\2e277490eee4dfc60d05dfaf76159941\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\kanto\.gradle\caches\transforms-2\files-2.1\cb3c912c51c161e8583622138423fdd4\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\kanto\.gradle\caches\transforms-2\files-2.1\772ff3009148c8fdb79994b3ec5bce9d\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\kanto\.gradle\caches\transforms-2\files-2.1\fabbbbb43c5d315d1bb8ee5d317dc211\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\kanto\.gradle\caches\transforms-2\files-2.1\7707fbec676bdeb5928459a3d6e63cfa\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\kanto\.gradle\caches\transforms-2\files-2.1\6f5f6f53c0c65419634300f7e3111663\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\kanto\.gradle\caches\transforms-2\files-2.1\d5efad793fa77fe6f4ab76c1afdebfaa\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.3.1] C:\Users\kanto\.gradle\caches\transforms-2\files-2.1\42e02c0b2526a1064b5c6c0c7ae14460\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.1] C:\Users\kanto\.gradle\caches\transforms-2\files-2.1\6a4ec7b401b1aa2e958cd4696da40c04\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\kanto\.gradle\caches\transforms-2\files-2.1\5219aa52716f5d9d246f95fdaeebc775\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\kanto\.gradle\caches\transforms-2\files-2.1\4cdb81c0fc61ff76ea3fb8eb4d661d7d\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\kanto\.gradle\caches\transforms-2\files-2.1\d2a28098b8f48af83fd22f8170e395a5\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\kanto\.gradle\caches\transforms-2\files-2.1\f5c923f8bfb0169075c3b9233593e265\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\kanto\.gradle\caches\transforms-2\files-2.1\511ef12df0c2afb2399b69d34cd13353\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\kanto\.gradle\caches\transforms-2\files-2.1\4cb6c2da105cf454ecd53a071c8b88f0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\kanto\.gradle\caches\transforms-2\files-2.1\73a8a205cac3f9c839a461dcba3e4908\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\kanto\.gradle\caches\transforms-2\files-2.1\e102496552c517ae97282b5bf600646a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\kanto\.gradle\caches\transforms-2\files-2.1\d58413441b65580dbffe260f89f0d6b4\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\kanto\.gradle\caches\transforms-2\files-2.1\a63be3a385cd4f9204ca057e1836cf5e\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\kanto\.gradle\caches\transforms-2\files-2.1\3f1286e12dafac6bc3a6dad5c00ef785\AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fbcore:2.0.0] C:\Users\kanto\.gradle\caches\transforms-2\files-2.1\3b3512d4ee0228927183939aab05b03d\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:annotation:0.8.0] C:\Users\kanto\.gradle\caches\transforms-2\files-2.1\84bcb673f941a62e9f8db5fad3ee3237\AndroidManifest.xml:2:1-13:12
+INJECTED from C:\xampp\htdocs\RN-MonitoreoSSO\android\app\src\main\AndroidManifest.xml:1:1-36:12
+INJECTED from C:\xampp\htdocs\RN-MonitoreoSSO\android\app\src\main\AndroidManifest.xml:1:1-36:12
+INJECTED from C:\xampp\htdocs\RN-MonitoreoSSO\android\app\src\main\AndroidManifest.xml:1:1-36:12
+	package
+		ADDED from C:\xampp\htdocs\RN-MonitoreoSSO\android\app\src\main\AndroidManifest.xml:2:3-39
+		INJECTED from C:\xampp\htdocs\RN-MonitoreoSSO\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\xampp\htdocs\RN-MonitoreoSSO\android\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\xampp\htdocs\RN-MonitoreoSSO\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\xampp\htdocs\RN-MonitoreoSSO\android\app\src\main\AndroidManifest.xml:1:1-36:12
+		INJECTED from C:\xampp\htdocs\RN-MonitoreoSSO\android\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\xampp\htdocs\RN-MonitoreoSSO\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\xampp\htdocs\RN-MonitoreoSSO\android\app\src\main\AndroidManifest.xml:1:1-36:12
+		INJECTED from C:\xampp\htdocs\RN-MonitoreoSSO\android\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\xampp\htdocs\RN-MonitoreoSSO\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\xampp\htdocs\RN-MonitoreoSSO\android\app\src\main\AndroidManifest.xml:4:5-67
+MERGED from [com.google.android.gms:play-services-gcm:16.1.0] C:\Users\kanto\.gradle\caches\transforms-2\files-2.1\fbc51d0748ae1b0a4a4e0042b8a6141c\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-gcm:16.1.0] C:\Users\kanto\.gradle\caches\transforms-2\files-2.1\fbc51d0748ae1b0a4a4e0042b8a6141c\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-iid:16.0.1] C:\Users\kanto\.gradle\caches\transforms-2\files-2.1\a9f2e2f4be0ba6668466a696957f681c\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-iid:16.0.1] C:\Users\kanto\.gradle\caches\transforms-2\files-2.1\a9f2e2f4be0ba6668466a696957f681c\AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from C:\xampp\htdocs\RN-MonitoreoSSO\android\app\src\main\AndroidManifest.xml:4:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\xampp\htdocs\RN-MonitoreoSSO\android\app\src\main\AndroidManifest.xml:5:5-79
+MERGED from [:react-native-community_netinfo] C:\xampp\htdocs\RN-MonitoreoSSO\node_modules\@react-native-community\netinfo\android\build\intermediates\library_manifest\release\AndroidManifest.xml:9:5-79
+MERGED from [:react-native-community_netinfo] C:\xampp\htdocs\RN-MonitoreoSSO\node_modules\@react-native-community\netinfo\android\build\intermediates\library_manifest\release\AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from C:\xampp\htdocs\RN-MonitoreoSSO\android\app\src\main\AndroidManifest.xml:5:22-76
+uses-permission#android.permission.CAMERA
+ADDED from C:\xampp\htdocs\RN-MonitoreoSSO\android\app\src\main\AndroidManifest.xml:6:5-65
+MERGED from [:react-native-camera-kit] C:\xampp\htdocs\RN-MonitoreoSSO\node_modules\react-native-camera-kit\android\build\intermediates\library_manifest\release\AndroidManifest.xml:11:5-65
+MERGED from [:react-native-camera-kit] C:\xampp\htdocs\RN-MonitoreoSSO\node_modules\react-native-camera-kit\android\build\intermediates\library_manifest\release\AndroidManifest.xml:11:5-65
+	android:name
+		ADDED from C:\xampp\htdocs\RN-MonitoreoSSO\android\app\src\main\AndroidManifest.xml:6:22-62
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\xampp\htdocs\RN-MonitoreoSSO\android\app\src\main\AndroidManifest.xml:7:5-80
+MERGED from [:react-native-camera-kit] C:\xampp\htdocs\RN-MonitoreoSSO\node_modules\react-native-camera-kit\android\build\intermediates\library_manifest\release\AndroidManifest.xml:13:5-81
+MERGED from [:react-native-camera-kit] C:\xampp\htdocs\RN-MonitoreoSSO\node_modules\react-native-camera-kit\android\build\intermediates\library_manifest\release\AndroidManifest.xml:13:5-81
+	android:name
+		ADDED from C:\xampp\htdocs\RN-MonitoreoSSO\android\app\src\main\AndroidManifest.xml:7:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\xampp\htdocs\RN-MonitoreoSSO\android\app\src\main\AndroidManifest.xml:8:5-79
+	android:name
+		ADDED from C:\xampp\htdocs\RN-MonitoreoSSO\android\app\src\main\AndroidManifest.xml:8:22-76
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\xampp\htdocs\RN-MonitoreoSSO\android\app\src\main\AndroidManifest.xml:9:5-80
+MERGED from [:react-native-camera-kit] C:\xampp\htdocs\RN-MonitoreoSSO\node_modules\react-native-camera-kit\android\build\intermediates\library_manifest\release\AndroidManifest.xml:12:5-80
+MERGED from [:react-native-camera-kit] C:\xampp\htdocs\RN-MonitoreoSSO\node_modules\react-native-camera-kit\android\build\intermediates\library_manifest\release\AndroidManifest.xml:12:5-80
+	android:name
+		ADDED from C:\xampp\htdocs\RN-MonitoreoSSO\android\app\src\main\AndroidManifest.xml:9:22-77
+uses-permission#android.permission.VIBRATE
+ADDED from C:\xampp\htdocs\RN-MonitoreoSSO\android\app\src\main\AndroidManifest.xml:10:5-65
+	android:name
+		ADDED from C:\xampp\htdocs\RN-MonitoreoSSO\android\app\src\main\AndroidManifest.xml:10:22-63
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from C:\xampp\htdocs\RN-MonitoreoSSO\android\app\src\main\AndroidManifest.xml:11:5-77
+	android:name
+		ADDED from C:\xampp\htdocs\RN-MonitoreoSSO\android\app\src\main\AndroidManifest.xml:11:22-74
+permission#android.permission.FLASHLIGHT
+ADDED from C:\xampp\htdocs\RN-MonitoreoSSO\android\app\src\main\AndroidManifest.xml:12:5-63
+	android:name
+		ADDED from C:\xampp\htdocs\RN-MonitoreoSSO\android\app\src\main\AndroidManifest.xml:12:17-61
+application
+ADDED from C:\xampp\htdocs\RN-MonitoreoSSO\android\app\src\main\AndroidManifest.xml:14:5-34:19
+MERGED from [:realm] C:\xampp\htdocs\RN-MonitoreoSSO\node_modules\realm\android\build\intermediates\library_manifest\release\AndroidManifest.xml:9:5-20
+MERGED from [:realm] C:\xampp\htdocs\RN-MonitoreoSSO\node_modules\realm\android\build\intermediates\library_manifest\release\AndroidManifest.xml:9:5-20
+MERGED from [:react-native-background-job] C:\xampp\htdocs\RN-MonitoreoSSO\node_modules\react-native-background-job\android\build\intermediates\library_manifest\release\AndroidManifest.xml:14:5-25:19
+MERGED from [:react-native-background-job] C:\xampp\htdocs\RN-MonitoreoSSO\node_modules\react-native-background-job\android\build\intermediates\library_manifest\release\AndroidManifest.xml:14:5-25:19
+MERGED from [:react-native-device-info] C:\xampp\htdocs\RN-MonitoreoSSO\node_modules\react-native-device-info\android\build\intermediates\library_manifest\release\AndroidManifest.xml:11:5-20:19
+MERGED from [:react-native-device-info] C:\xampp\htdocs\RN-MonitoreoSSO\node_modules\react-native-device-info\android\build\intermediates\library_manifest\release\AndroidManifest.xml:11:5-20:19
+MERGED from [:react-native-image-picker] C:\xampp\htdocs\RN-MonitoreoSSO\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\release\AndroidManifest.xml:11:5-21:19
+MERGED from [:react-native-image-picker] C:\xampp\htdocs\RN-MonitoreoSSO\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\release\AndroidManifest.xml:11:5-21:19
+MERGED from [com.facebook.react:react-native:0.62.2] C:\Users\kanto\.gradle\caches\transforms-2\files-2.1\89ae52c59a80efcf5b5cd7642f547d77\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.62.2] C:\Users\kanto\.gradle\caches\transforms-2\files-2.1\89ae52c59a80efcf5b5cd7642f547d77\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.8.0] C:\Users\kanto\.gradle\caches\transforms-2\files-2.1\71ad5bda0fb80cf1d1c7bf94ed0efa16\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.8.0] C:\Users\kanto\.gradle\caches\transforms-2\files-2.1\71ad5bda0fb80cf1d1c7bf94ed0efa16\AndroidManifest.xml:11:5-20
+MERGED from [com.firebase:firebase-jobdispatcher:0.8.5] C:\Users\kanto\.gradle\caches\transforms-2\files-2.1\4992a436af783b2989a7a60e0e0334bb\AndroidManifest.xml:26:5-40:19
+MERGED from [com.firebase:firebase-jobdispatcher:0.8.5] C:\Users\kanto\.gradle\caches\transforms-2\files-2.1\4992a436af783b2989a7a60e0e0334bb\AndroidManifest.xml:26:5-40:19
+MERGED from [com.google.android.gms:play-services-gcm:16.1.0] C:\Users\kanto\.gradle\caches\transforms-2\files-2.1\fbc51d0748ae1b0a4a4e0042b8a6141c\AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-gcm:16.1.0] C:\Users\kanto\.gradle\caches\transforms-2\files-2.1\fbc51d0748ae1b0a4a4e0042b8a6141c\AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-iid:16.0.1] C:\Users\kanto\.gradle\caches\transforms-2\files-2.1\a9f2e2f4be0ba6668466a696957f681c\AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-iid:16.0.1] C:\Users\kanto\.gradle\caches\transforms-2\files-2.1\a9f2e2f4be0ba6668466a696957f681c\AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\kanto\.gradle\caches\transforms-2\files-2.1\433d5d65af70f23bc6bcf84e1be0c80c\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\kanto\.gradle\caches\transforms-2\files-2.1\433d5d65af70f23bc6bcf84e1be0c80c\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] C:\Users\kanto\.gradle\caches\transforms-2\files-2.1\0c613dee2c257fa8ab53c66f7dafcbf2\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] C:\Users\kanto\.gradle\caches\transforms-2\files-2.1\0c613dee2c257fa8ab53c66f7dafcbf2\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\kanto\.gradle\caches\transforms-2\files-2.1\0120d3e1c128e8584be35fba9c78a1e8\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\kanto\.gradle\caches\transforms-2\files-2.1\0120d3e1c128e8584be35fba9c78a1e8\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\kanto\.gradle\caches\transforms-2\files-2.1\f4b1d13c1306d941d1429908e3f50a56\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\kanto\.gradle\caches\transforms-2\files-2.1\f4b1d13c1306d941d1429908e3f50a56\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.3.1] C:\Users\kanto\.gradle\caches\transforms-2\files-2.1\42e02c0b2526a1064b5c6c0c7ae14460\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.1] C:\Users\kanto\.gradle\caches\transforms-2\files-2.1\42e02c0b2526a1064b5c6c0c7ae14460\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\kanto\.gradle\caches\transforms-2\files-2.1\5219aa52716f5d9d246f95fdaeebc775\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\kanto\.gradle\caches\transforms-2\files-2.1\5219aa52716f5d9d246f95fdaeebc775\AndroidManifest.xml:24:5-25:19
+MERGED from [com.facebook.soloader:annotation:0.8.0] C:\Users\kanto\.gradle\caches\transforms-2\files-2.1\84bcb673f941a62e9f8db5fad3ee3237\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:annotation:0.8.0] C:\Users\kanto\.gradle\caches\transforms-2\files-2.1\84bcb673f941a62e9f8db5fad3ee3237\AndroidManifest.xml:11:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.1] C:\Users\kanto\.gradle\caches\transforms-2\files-2.1\42e02c0b2526a1064b5c6c0c7ae14460\AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from C:\xampp\htdocs\RN-MonitoreoSSO\android\app\src\main\AndroidManifest.xml:16:7-39
+	android:icon
+		ADDED from C:\xampp\htdocs\RN-MonitoreoSSO\android\app\src\main\AndroidManifest.xml:17:7-41
+	android:allowBackup
+		ADDED from C:\xampp\htdocs\RN-MonitoreoSSO\android\app\src\main\AndroidManifest.xml:18:7-34
+	android:theme
+		ADDED from C:\xampp\htdocs\RN-MonitoreoSSO\android\app\src\main\AndroidManifest.xml:19:7-38
+	android:usesCleartextTraffic
+		ADDED from C:\xampp\htdocs\RN-MonitoreoSSO\android\app\src\main\AndroidManifest.xml:20:7-42
+	android:name
+		ADDED from C:\xampp\htdocs\RN-MonitoreoSSO\android\app\src\main\AndroidManifest.xml:15:7-38
+activity#cl.innoapsion.monitoreosso.MainActivity
+ADDED from C:\xampp\htdocs\RN-MonitoreoSSO\android\app\src\main\AndroidManifest.xml:22:7-32:18
+	android:screenOrientation
+		ADDED from C:\xampp\htdocs\RN-MonitoreoSSO\android\app\src\main\AndroidManifest.xml:27:9-45
+	android:label
+		ADDED from C:\xampp\htdocs\RN-MonitoreoSSO\android\app\src\main\AndroidManifest.xml:24:9-41
+	android:windowSoftInputMode
+		ADDED from C:\xampp\htdocs\RN-MonitoreoSSO\android\app\src\main\AndroidManifest.xml:26:9-51
+	android:configChanges
+		ADDED from C:\xampp\htdocs\RN-MonitoreoSSO\android\app\src\main\AndroidManifest.xml:25:9-79
+	android:name
+		ADDED from C:\xampp\htdocs\RN-MonitoreoSSO\android\app\src\main\AndroidManifest.xml:23:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\xampp\htdocs\RN-MonitoreoSSO\android\app\src\main\AndroidManifest.xml:28:9-31:25
+action#android.intent.action.MAIN
+ADDED from C:\xampp\htdocs\RN-MonitoreoSSO\android\app\src\main\AndroidManifest.xml:29:13-65
+	android:name
+		ADDED from C:\xampp\htdocs\RN-MonitoreoSSO\android\app\src\main\AndroidManifest.xml:29:21-62
+category#android.intent.category.LAUNCHER
+ADDED from C:\xampp\htdocs\RN-MonitoreoSSO\android\app\src\main\AndroidManifest.xml:30:13-73
+	android:name
+		ADDED from C:\xampp\htdocs\RN-MonitoreoSSO\android\app\src\main\AndroidManifest.xml:30:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from C:\xampp\htdocs\RN-MonitoreoSSO\android\app\src\main\AndroidManifest.xml:33:7-84
+	android:name
+		ADDED from C:\xampp\htdocs\RN-MonitoreoSSO\android\app\src\main\AndroidManifest.xml:33:17-81
+uses-sdk
+INJECTED from C:\xampp\htdocs\RN-MonitoreoSSO\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\xampp\htdocs\RN-MonitoreoSSO\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\xampp\htdocs\RN-MonitoreoSSO\android\app\src\main\AndroidManifest.xml
+MERGED from [:realm] C:\xampp\htdocs\RN-MonitoreoSSO\node_modules\realm\android\build\intermediates\library_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:realm] C:\xampp\htdocs\RN-MonitoreoSSO\node_modules\realm\android\build\intermediates\library_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-camera-kit] C:\xampp\htdocs\RN-MonitoreoSSO\node_modules\react-native-camera-kit\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-camera-kit] C:\xampp\htdocs\RN-MonitoreoSSO\node_modules\react-native-camera-kit\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:@react-native-community_geolocation] C:\xampp\htdocs\RN-MonitoreoSSO\node_modules\@react-native-community\geolocation\android\build\intermediates\library_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:@react-native-community_geolocation] C:\xampp\htdocs\RN-MonitoreoSSO\node_modules\@react-native-community\geolocation\android\build\intermediates\library_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-svg] C:\xampp\htdocs\RN-MonitoreoSSO\node_modules\react-native-svg\android\build\intermediates\library_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-svg] C:\xampp\htdocs\RN-MonitoreoSSO\node_modules\react-native-svg\android\build\intermediates\library_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-vector-icons] C:\xampp\htdocs\RN-MonitoreoSSO\node_modules\react-native-vector-icons\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] C:\xampp\htdocs\RN-MonitoreoSSO\node_modules\react-native-vector-icons\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:amazon-cognito-identity-js] C:\xampp\htdocs\RN-MonitoreoSSO\node_modules\amazon-cognito-identity-js\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:amazon-cognito-identity-js] C:\xampp\htdocs\RN-MonitoreoSSO\node_modules\amazon-cognito-identity-js\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-community_geolocation] C:\xampp\htdocs\RN-MonitoreoSSO\node_modules\@react-native-community\geolocation\android\build\intermediates\library_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_geolocation] C:\xampp\htdocs\RN-MonitoreoSSO\node_modules\@react-native-community\geolocation\android\build\intermediates\library_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_netinfo] C:\xampp\htdocs\RN-MonitoreoSSO\node_modules\@react-native-community\netinfo\android\build\intermediates\library_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_netinfo] C:\xampp\htdocs\RN-MonitoreoSSO\node_modules\@react-native-community\netinfo\android\build\intermediates\library_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-background-job] C:\xampp\htdocs\RN-MonitoreoSSO\node_modules\react-native-background-job\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-background-job] C:\xampp\htdocs\RN-MonitoreoSSO\node_modules\react-native-background-job\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-device-info] C:\xampp\htdocs\RN-MonitoreoSSO\node_modules\react-native-device-info\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-device-info] C:\xampp\htdocs\RN-MonitoreoSSO\node_modules\react-native-device-info\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-image-picker] C:\xampp\htdocs\RN-MonitoreoSSO\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-image-picker] C:\xampp\htdocs\RN-MonitoreoSSO\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-prompt-android] C:\xampp\htdocs\RN-MonitoreoSSO\node_modules\react-native-prompt-android\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-prompt-android] C:\xampp\htdocs\RN-MonitoreoSSO\node_modules\react-native-prompt-android\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-signature-capture] C:\xampp\htdocs\RN-MonitoreoSSO\node_modules\react-native-signature-capture\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-signature-capture] C:\xampp\htdocs\RN-MonitoreoSSO\node_modules\react-native-signature-capture\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-version-number] C:\xampp\htdocs\RN-MonitoreoSSO\node_modules\react-native-version-number\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-version-number] C:\xampp\htdocs\RN-MonitoreoSSO\node_modules\react-native-version-number\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.62.2] C:\Users\kanto\.gradle\caches\transforms-2\files-2.1\89ae52c59a80efcf5b5cd7642f547d77\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.62.2] C:\Users\kanto\.gradle\caches\transforms-2\files-2.1\89ae52c59a80efcf5b5cd7642f547d77\AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] C:\Users\kanto\.gradle\caches\transforms-2\files-2.1\bd0a54d4fe6b4beea7f612be37d51b7e\AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] C:\Users\kanto\.gradle\caches\transforms-2\files-2.1\bd0a54d4fe6b4beea7f612be37d51b7e\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\kanto\.gradle\caches\transforms-2\files-2.1\dfbff347e8c35aa14814b625181f71f0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\kanto\.gradle\caches\transforms-2\files-2.1\dfbff347e8c35aa14814b625181f71f0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\kanto\.gradle\caches\transforms-2\files-2.1\8ad8a07a84a348e38c857e7eddd59b1d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\kanto\.gradle\caches\transforms-2\files-2.1\8ad8a07a84a348e38c857e7eddd59b1d\AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:2.0.0] C:\Users\kanto\.gradle\caches\transforms-2\files-2.1\977d151edcc98393e22d821352a432dc\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] C:\Users\kanto\.gradle\caches\transforms-2\files-2.1\977d151edcc98393e22d821352a432dc\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] C:\Users\kanto\.gradle\caches\transforms-2\files-2.1\8ac23e853ccbfadb48d1df6c56f4804e\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] C:\Users\kanto\.gradle\caches\transforms-2\files-2.1\8ac23e853ccbfadb48d1df6c56f4804e\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] C:\Users\kanto\.gradle\caches\transforms-2\files-2.1\8d2397a77ca6e404d3f4c2233d95d914\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] C:\Users\kanto\.gradle\caches\transforms-2\files-2.1\8d2397a77ca6e404d3f4c2233d95d914\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] C:\Users\kanto\.gradle\caches\transforms-2\files-2.1\0b36557d16dfe9fad518483d397aeafa\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] C:\Users\kanto\.gradle\caches\transforms-2\files-2.1\0b36557d16dfe9fad518483d397aeafa\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] C:\Users\kanto\.gradle\caches\transforms-2\files-2.1\7de8cce0768186981809f4687a2c3697\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] C:\Users\kanto\.gradle\caches\transforms-2\files-2.1\7de8cce0768186981809f4687a2c3697\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] C:\Users\kanto\.gradle\caches\transforms-2\files-2.1\5a008ec5db861f85d165d79d3806f722\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] C:\Users\kanto\.gradle\caches\transforms-2\files-2.1\5a008ec5db861f85d165d79d3806f722\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] C:\Users\kanto\.gradle\caches\transforms-2\files-2.1\fe51a3fa9d3181a8c83909830ccace79\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] C:\Users\kanto\.gradle\caches\transforms-2\files-2.1\fe51a3fa9d3181a8c83909830ccace79\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.8.0] C:\Users\kanto\.gradle\caches\transforms-2\files-2.1\71ad5bda0fb80cf1d1c7bf94ed0efa16\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.8.0] C:\Users\kanto\.gradle\caches\transforms-2\files-2.1\71ad5bda0fb80cf1d1c7bf94ed0efa16\AndroidManifest.xml:7:5-9:41
+MERGED from [com.firebase:firebase-jobdispatcher:0.8.5] C:\Users\kanto\.gradle\caches\transforms-2\files-2.1\4992a436af783b2989a7a60e0e0334bb\AndroidManifest.xml:22:5-24:41
+MERGED from [com.firebase:firebase-jobdispatcher:0.8.5] C:\Users\kanto\.gradle\caches\transforms-2\files-2.1\4992a436af783b2989a7a60e0e0334bb\AndroidManifest.xml:22:5-24:41
+MERGED from [com.google.android.gms:play-services-gcm:16.1.0] C:\Users\kanto\.gradle\caches\transforms-2\files-2.1\fbc51d0748ae1b0a4a4e0042b8a6141c\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gcm:16.1.0] C:\Users\kanto\.gradle\caches\transforms-2\files-2.1\fbc51d0748ae1b0a4a4e0042b8a6141c\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-iid:16.0.1] C:\Users\kanto\.gradle\caches\transforms-2\files-2.1\a9f2e2f4be0ba6668466a696957f681c\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-iid:16.0.1] C:\Users\kanto\.gradle\caches\transforms-2\files-2.1\a9f2e2f4be0ba6668466a696957f681c\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\kanto\.gradle\caches\transforms-2\files-2.1\433d5d65af70f23bc6bcf84e1be0c80c\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\kanto\.gradle\caches\transforms-2\files-2.1\433d5d65af70f23bc6bcf84e1be0c80c\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] C:\Users\kanto\.gradle\caches\transforms-2\files-2.1\0c613dee2c257fa8ab53c66f7dafcbf2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] C:\Users\kanto\.gradle\caches\transforms-2\files-2.1\0c613dee2c257fa8ab53c66f7dafcbf2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\kanto\.gradle\caches\transforms-2\files-2.1\0120d3e1c128e8584be35fba9c78a1e8\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\kanto\.gradle\caches\transforms-2\files-2.1\0120d3e1c128e8584be35fba9c78a1e8\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\kanto\.gradle\caches\transforms-2\files-2.1\f4b1d13c1306d941d1429908e3f50a56\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\kanto\.gradle\caches\transforms-2\files-2.1\f4b1d13c1306d941d1429908e3f50a56\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\kanto\.gradle\caches\transforms-2\files-2.1\000b93a79f5e3667d1a44b263376082b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\kanto\.gradle\caches\transforms-2\files-2.1\000b93a79f5e3667d1a44b263376082b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\kanto\.gradle\caches\transforms-2\files-2.1\3a6c2bfdb893ef302291fe75b3559d2b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\kanto\.gradle\caches\transforms-2\files-2.1\3a6c2bfdb893ef302291fe75b3559d2b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\kanto\.gradle\caches\transforms-2\files-2.1\70e497f327e557544d310df206e2f696\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\kanto\.gradle\caches\transforms-2\files-2.1\70e497f327e557544d310df206e2f696\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\kanto\.gradle\caches\transforms-2\files-2.1\e22a434e5814053032ea0f1a0ac5640b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\kanto\.gradle\caches\transforms-2\files-2.1\e22a434e5814053032ea0f1a0ac5640b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\kanto\.gradle\caches\transforms-2\files-2.1\64b387e40622209b3e2b3b0b889975cb\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\kanto\.gradle\caches\transforms-2\files-2.1\64b387e40622209b3e2b3b0b889975cb\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\kanto\.gradle\caches\transforms-2\files-2.1\6ea99487856bcf7a534c3f8c4c9be3c4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\kanto\.gradle\caches\transforms-2\files-2.1\6ea99487856bcf7a534c3f8c4c9be3c4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\kanto\.gradle\caches\transforms-2\files-2.1\5062bd9da424ab81113ab8f5841011c4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\kanto\.gradle\caches\transforms-2\files-2.1\5062bd9da424ab81113ab8f5841011c4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\kanto\.gradle\caches\transforms-2\files-2.1\6c365d731bac9e6e4483dc2a842b50f2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\kanto\.gradle\caches\transforms-2\files-2.1\6c365d731bac9e6e4483dc2a842b50f2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\kanto\.gradle\caches\transforms-2\files-2.1\2e277490eee4dfc60d05dfaf76159941\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\kanto\.gradle\caches\transforms-2\files-2.1\2e277490eee4dfc60d05dfaf76159941\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\kanto\.gradle\caches\transforms-2\files-2.1\cb3c912c51c161e8583622138423fdd4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\kanto\.gradle\caches\transforms-2\files-2.1\cb3c912c51c161e8583622138423fdd4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\kanto\.gradle\caches\transforms-2\files-2.1\772ff3009148c8fdb79994b3ec5bce9d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\kanto\.gradle\caches\transforms-2\files-2.1\772ff3009148c8fdb79994b3ec5bce9d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\kanto\.gradle\caches\transforms-2\files-2.1\fabbbbb43c5d315d1bb8ee5d317dc211\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\kanto\.gradle\caches\transforms-2\files-2.1\fabbbbb43c5d315d1bb8ee5d317dc211\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\kanto\.gradle\caches\transforms-2\files-2.1\7707fbec676bdeb5928459a3d6e63cfa\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\kanto\.gradle\caches\transforms-2\files-2.1\7707fbec676bdeb5928459a3d6e63cfa\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\kanto\.gradle\caches\transforms-2\files-2.1\6f5f6f53c0c65419634300f7e3111663\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\kanto\.gradle\caches\transforms-2\files-2.1\6f5f6f53c0c65419634300f7e3111663\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\kanto\.gradle\caches\transforms-2\files-2.1\d5efad793fa77fe6f4ab76c1afdebfaa\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\kanto\.gradle\caches\transforms-2\files-2.1\d5efad793fa77fe6f4ab76c1afdebfaa\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.3.1] C:\Users\kanto\.gradle\caches\transforms-2\files-2.1\42e02c0b2526a1064b5c6c0c7ae14460\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.1] C:\Users\kanto\.gradle\caches\transforms-2\files-2.1\42e02c0b2526a1064b5c6c0c7ae14460\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.1] C:\Users\kanto\.gradle\caches\transforms-2\files-2.1\6a4ec7b401b1aa2e958cd4696da40c04\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.1] C:\Users\kanto\.gradle\caches\transforms-2\files-2.1\6a4ec7b401b1aa2e958cd4696da40c04\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\kanto\.gradle\caches\transforms-2\files-2.1\5219aa52716f5d9d246f95fdaeebc775\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\kanto\.gradle\caches\transforms-2\files-2.1\5219aa52716f5d9d246f95fdaeebc775\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\kanto\.gradle\caches\transforms-2\files-2.1\4cdb81c0fc61ff76ea3fb8eb4d661d7d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\kanto\.gradle\caches\transforms-2\files-2.1\4cdb81c0fc61ff76ea3fb8eb4d661d7d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\kanto\.gradle\caches\transforms-2\files-2.1\d2a28098b8f48af83fd22f8170e395a5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\kanto\.gradle\caches\transforms-2\files-2.1\d2a28098b8f48af83fd22f8170e395a5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\kanto\.gradle\caches\transforms-2\files-2.1\f5c923f8bfb0169075c3b9233593e265\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\kanto\.gradle\caches\transforms-2\files-2.1\f5c923f8bfb0169075c3b9233593e265\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\kanto\.gradle\caches\transforms-2\files-2.1\511ef12df0c2afb2399b69d34cd13353\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\kanto\.gradle\caches\transforms-2\files-2.1\511ef12df0c2afb2399b69d34cd13353\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\kanto\.gradle\caches\transforms-2\files-2.1\4cb6c2da105cf454ecd53a071c8b88f0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\kanto\.gradle\caches\transforms-2\files-2.1\4cb6c2da105cf454ecd53a071c8b88f0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\kanto\.gradle\caches\transforms-2\files-2.1\73a8a205cac3f9c839a461dcba3e4908\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\kanto\.gradle\caches\transforms-2\files-2.1\73a8a205cac3f9c839a461dcba3e4908\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\kanto\.gradle\caches\transforms-2\files-2.1\e102496552c517ae97282b5bf600646a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\kanto\.gradle\caches\transforms-2\files-2.1\e102496552c517ae97282b5bf600646a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\kanto\.gradle\caches\transforms-2\files-2.1\d58413441b65580dbffe260f89f0d6b4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\kanto\.gradle\caches\transforms-2\files-2.1\d58413441b65580dbffe260f89f0d6b4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\kanto\.gradle\caches\transforms-2\files-2.1\a63be3a385cd4f9204ca057e1836cf5e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\kanto\.gradle\caches\transforms-2\files-2.1\a63be3a385cd4f9204ca057e1836cf5e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\kanto\.gradle\caches\transforms-2\files-2.1\3f1286e12dafac6bc3a6dad5c00ef785\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\kanto\.gradle\caches\transforms-2\files-2.1\3f1286e12dafac6bc3a6dad5c00ef785\AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fbcore:2.0.0] C:\Users\kanto\.gradle\caches\transforms-2\files-2.1\3b3512d4ee0228927183939aab05b03d\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] C:\Users\kanto\.gradle\caches\transforms-2\files-2.1\3b3512d4ee0228927183939aab05b03d\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:annotation:0.8.0] C:\Users\kanto\.gradle\caches\transforms-2\files-2.1\84bcb673f941a62e9f8db5fad3ee3237\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:annotation:0.8.0] C:\Users\kanto\.gradle\caches\transforms-2\files-2.1\84bcb673f941a62e9f8db5fad3ee3237\AndroidManifest.xml:7:5-9:41
+INJECTED from C:\xampp\htdocs\RN-MonitoreoSSO\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\xampp\htdocs\RN-MonitoreoSSO\android\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\xampp\htdocs\RN-MonitoreoSSO\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\xampp\htdocs\RN-MonitoreoSSO\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\xampp\htdocs\RN-MonitoreoSSO\android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\xampp\htdocs\RN-MonitoreoSSO\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\xampp\htdocs\RN-MonitoreoSSO\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\xampp\htdocs\RN-MonitoreoSSO\android\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [:react-native-background-job] C:\xampp\htdocs\RN-MonitoreoSSO\node_modules\react-native-background-job\android\build\intermediates\library_manifest\release\AndroidManifest.xml:11:5-68
+	android:name
+		ADDED from [:react-native-background-job] C:\xampp\htdocs\RN-MonitoreoSSO\node_modules\react-native-background-job\android\build\intermediates\library_manifest\release\AndroidManifest.xml:11:22-65
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from [:react-native-background-job] C:\xampp\htdocs\RN-MonitoreoSSO\node_modules\react-native-background-job\android\build\intermediates\library_manifest\release\AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from [:react-native-background-job] C:\xampp\htdocs\RN-MonitoreoSSO\node_modules\react-native-background-job\android\build\intermediates\library_manifest\release\AndroidManifest.xml:12:22-78
+service#com.pilloxa.backgroundjob.BackgroundJob
+ADDED from [:react-native-background-job] C:\xampp\htdocs\RN-MonitoreoSSO\node_modules\react-native-background-job\android\build\intermediates\library_manifest\release\AndroidManifest.xml:15:9-18:72
+	android:exported
+		ADDED from [:react-native-background-job] C:\xampp\htdocs\RN-MonitoreoSSO\node_modules\react-native-background-job\android\build\intermediates\library_manifest\release\AndroidManifest.xml:17:13-36
+	android:permission
+		ADDED from [:react-native-background-job] C:\xampp\htdocs\RN-MonitoreoSSO\node_modules\react-native-background-job\android\build\intermediates\library_manifest\release\AndroidManifest.xml:18:13-69
+	android:name
+		ADDED from [:react-native-background-job] C:\xampp\htdocs\RN-MonitoreoSSO\node_modules\react-native-background-job\android\build\intermediates\library_manifest\release\AndroidManifest.xml:16:13-67
+service#com.pilloxa.backgroundjob.ExactJob
+ADDED from [:react-native-background-job] C:\xampp\htdocs\RN-MonitoreoSSO\node_modules\react-native-background-job\android\build\intermediates\library_manifest\release\AndroidManifest.xml:19:9-21:38
+	android:enabled
+		ADDED from [:react-native-background-job] C:\xampp\htdocs\RN-MonitoreoSSO\node_modules\react-native-background-job\android\build\intermediates\library_manifest\release\AndroidManifest.xml:21:13-35
+	android:name
+		ADDED from [:react-native-background-job] C:\xampp\htdocs\RN-MonitoreoSSO\node_modules\react-native-background-job\android\build\intermediates\library_manifest\release\AndroidManifest.xml:20:13-62
+service#com.pilloxa.backgroundjob.ReactNativeEventStarter$MyHeadlessJsTaskService
+ADDED from [:react-native-background-job] C:\xampp\htdocs\RN-MonitoreoSSO\node_modules\react-native-background-job\android\build\intermediates\library_manifest\release\AndroidManifest.xml:22:9-24:38
+	android:enabled
+		ADDED from [:react-native-background-job] C:\xampp\htdocs\RN-MonitoreoSSO\node_modules\react-native-background-job\android\build\intermediates\library_manifest\release\AndroidManifest.xml:24:13-35
+	android:name
+		ADDED from [:react-native-background-job] C:\xampp\htdocs\RN-MonitoreoSSO\node_modules\react-native-background-job\android\build\intermediates\library_manifest\release\AndroidManifest.xml:23:13-101
+receiver#com.learnium.RNDeviceInfo.RNDeviceReceiver
+ADDED from [:react-native-device-info] C:\xampp\htdocs\RN-MonitoreoSSO\node_modules\react-native-device-info\android\build\intermediates\library_manifest\release\AndroidManifest.xml:12:9-19:20
+	android:enabled
+		ADDED from [:react-native-device-info] C:\xampp\htdocs\RN-MonitoreoSSO\node_modules\react-native-device-info\android\build\intermediates\library_manifest\release\AndroidManifest.xml:14:13-35
+	android:exported
+		ADDED from [:react-native-device-info] C:\xampp\htdocs\RN-MonitoreoSSO\node_modules\react-native-device-info\android\build\intermediates\library_manifest\release\AndroidManifest.xml:15:13-36
+	android:name
+		ADDED from [:react-native-device-info] C:\xampp\htdocs\RN-MonitoreoSSO\node_modules\react-native-device-info\android\build\intermediates\library_manifest\release\AndroidManifest.xml:13:13-70
+intent-filter#action:name:com.android.vending.INSTALL_REFERRER
+ADDED from [:react-native-device-info] C:\xampp\htdocs\RN-MonitoreoSSO\node_modules\react-native-device-info\android\build\intermediates\library_manifest\release\AndroidManifest.xml:16:13-18:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [:react-native-device-info] C:\xampp\htdocs\RN-MonitoreoSSO\node_modules\react-native-device-info\android\build\intermediates\library_manifest\release\AndroidManifest.xml:17:17-79
+	android:name
+		ADDED from [:react-native-device-info] C:\xampp\htdocs\RN-MonitoreoSSO\node_modules\react-native-device-info\android\build\intermediates\library_manifest\release\AndroidManifest.xml:17:25-76
+provider#com.imagepicker.ImagePickerProvider
+ADDED from [:react-native-image-picker] C:\xampp\htdocs\RN-MonitoreoSSO\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\release\AndroidManifest.xml:12:9-20:20
+	android:grantUriPermissions
+		ADDED from [:react-native-image-picker] C:\xampp\htdocs\RN-MonitoreoSSO\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\release\AndroidManifest.xml:16:13-47
+	android:authorities
+		ADDED from [:react-native-image-picker] C:\xampp\htdocs\RN-MonitoreoSSO\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\release\AndroidManifest.xml:14:13-71
+	android:exported
+		ADDED from [:react-native-image-picker] C:\xampp\htdocs\RN-MonitoreoSSO\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\release\AndroidManifest.xml:15:13-37
+	android:name
+		ADDED from [:react-native-image-picker] C:\xampp\htdocs\RN-MonitoreoSSO\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\release\AndroidManifest.xml:13:13-63
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:react-native-image-picker] C:\xampp\htdocs\RN-MonitoreoSSO\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\release\AndroidManifest.xml:17:13-19:70
+	android:resource
+		ADDED from [:react-native-image-picker] C:\xampp\htdocs\RN-MonitoreoSSO\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\release\AndroidManifest.xml:19:17-67
+	android:name
+		ADDED from [:react-native-image-picker] C:\xampp\htdocs\RN-MonitoreoSSO\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\release\AndroidManifest.xml:18:17-67
+service#com.firebase.jobdispatcher.GooglePlayReceiver
+ADDED from [com.firebase:firebase-jobdispatcher:0.8.5] C:\Users\kanto\.gradle\caches\transforms-2\files-2.1\4992a436af783b2989a7a60e0e0334bb\AndroidManifest.xml:32:9-39:19
+	android:exported
+		ADDED from [com.firebase:firebase-jobdispatcher:0.8.5] C:\Users\kanto\.gradle\caches\transforms-2\files-2.1\4992a436af783b2989a7a60e0e0334bb\AndroidManifest.xml:34:13-36
+	android:permission
+		ADDED from [com.firebase:firebase-jobdispatcher:0.8.5] C:\Users\kanto\.gradle\caches\transforms-2\files-2.1\4992a436af783b2989a7a60e0e0334bb\AndroidManifest.xml:35:13-93
+	android:name
+		ADDED from [com.firebase:firebase-jobdispatcher:0.8.5] C:\Users\kanto\.gradle\caches\transforms-2\files-2.1\4992a436af783b2989a7a60e0e0334bb\AndroidManifest.xml:33:13-73
+intent-filter#action:name:com.google.android.gms.gcm.ACTION_TASK_READY
+ADDED from [com.firebase:firebase-jobdispatcher:0.8.5] C:\Users\kanto\.gradle\caches\transforms-2\files-2.1\4992a436af783b2989a7a60e0e0334bb\AndroidManifest.xml:36:13-38:29
+action#com.google.android.gms.gcm.ACTION_TASK_READY
+ADDED from [com.firebase:firebase-jobdispatcher:0.8.5] C:\Users\kanto\.gradle\caches\transforms-2\files-2.1\4992a436af783b2989a7a60e0e0334bb\AndroidManifest.xml:37:17-87
+	android:name
+		ADDED from [com.firebase:firebase-jobdispatcher:0.8.5] C:\Users\kanto\.gradle\caches\transforms-2\files-2.1\4992a436af783b2989a7a60e0e0334bb\AndroidManifest.xml:37:25-84
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.android.gms:play-services-gcm:16.1.0] C:\Users\kanto\.gradle\caches\transforms-2\files-2.1\fbc51d0748ae1b0a4a4e0042b8a6141c\AndroidManifest.xml:23:5-82
+MERGED from [com.google.android.gms:play-services-iid:16.0.1] C:\Users\kanto\.gradle\caches\transforms-2\files-2.1\a9f2e2f4be0ba6668466a696957f681c\AndroidManifest.xml:23:5-82
+MERGED from [com.google.android.gms:play-services-iid:16.0.1] C:\Users\kanto\.gradle\caches\transforms-2\files-2.1\a9f2e2f4be0ba6668466a696957f681c\AndroidManifest.xml:23:5-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-gcm:16.1.0] C:\Users\kanto\.gradle\caches\transforms-2\files-2.1\fbc51d0748ae1b0a4a4e0042b8a6141c\AndroidManifest.xml:23:22-79
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\kanto\.gradle\caches\transforms-2\files-2.1\433d5d65af70f23bc6bcf84e1be0c80c\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\kanto\.gradle\caches\transforms-2\files-2.1\433d5d65af70f23bc6bcf84e1be0c80c\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\kanto\.gradle\caches\transforms-2\files-2.1\433d5d65af70f23bc6bcf84e1be0c80c\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\kanto\.gradle\caches\transforms-2\files-2.1\433d5d65af70f23bc6bcf84e1be0c80c\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\kanto\.gradle\caches\transforms-2\files-2.1\f4b1d13c1306d941d1429908e3f50a56\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\kanto\.gradle\caches\transforms-2\files-2.1\f4b1d13c1306d941d1429908e3f50a56\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\kanto\.gradle\caches\transforms-2\files-2.1\f4b1d13c1306d941d1429908e3f50a56\AndroidManifest.xml:24:13-58
